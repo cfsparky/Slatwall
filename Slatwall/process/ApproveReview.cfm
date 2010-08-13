@@ -1,0 +1,1 @@
+<cfset application.contentManager.approveComment(form.CommentID) />

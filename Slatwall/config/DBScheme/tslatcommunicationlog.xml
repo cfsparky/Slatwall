@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DataTable>
+	<TableName>tslatcommunicationlog</TableName>
+	<Columns>
+		<Column name="CommunicationLogID" 	IsIdentity="true" NullOK="false" DataType="int" />
+		<Column name="CommunicationType"	NullOK="true" DataType="varchar" DataLength="50" />
+		<Column name="Subject" 				NullOK="true" DataType="varchar" DataLength="50" />
+		<Column name="Communication"		NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="UserID"				NullOK="true" DataType="varchar" DataLength="36" />
+		<Column name="CustomerID"			NullOK="true" DataType="varchar" DataLength="50" />
+	</Columns>
+</DataTable>

@@ -1,0 +1,1 @@
+<cfset Session.Slat.Cart.GuestCheckout = 1 />

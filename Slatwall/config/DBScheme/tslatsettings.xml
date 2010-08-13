@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DataTable>
+	<TableName>tslatsettings</TableName>
+	<Columns>
+		<Column name="SettingID"		IsIdentity="true" NullOK="false" DataType="int" />
+		<Column name="SiteID"		 	NullOK="false" DataType="varchar" DataLength="50" />
+		<Column name="SettingName"		NullOK="false" DataType="varchar" DataLength="max" />
+		<Column name="SettingType"		NullOK="false" DataType="varchar" DataLength="max" />
+		<Column name="SettingOptions"	NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="SettingValue"		NullOK="false" DataType="varchar" DataLength="max" />
+	</Columns>
+</DataTable>

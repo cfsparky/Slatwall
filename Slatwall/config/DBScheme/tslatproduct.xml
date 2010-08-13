@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DataTable>
+	<TableName>tslatproduct</TableName>
+	<Columns>
+		<Column name="ProductID"					NullOK="false" DataType="varchar" DataLength="50" />
+		<Column name="Active"		 				NullOK="false" DataType="int" />
+		<Column name="ProductCode"					NullOK="true" DataType="varchar" DataLength="50" />
+		<Column name="ProductName"					NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="Brand"						NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="DefaultImageID"				NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="ProductDescription"			NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="ProductExtendedDescription"	NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="DateCreated"					NullOK="true" DataType="varchar" DataLength="50" />
+		<Column name="DateAddedToWeb"				NullOK="true" DataType="varchar" DataLength="50" />
+		<Column name="DateLastUpdated"				NullOK="true" DataType="varchar" DataLength="50" />
+		<Column name="DateFirstReceived"			NullOK="true" DataType="varchar" DataLength="50" />
+		<Column name="NonInventoryItem"				NullOK="true" DataType="int" />
+		<Column name="CallToOrder"					NullOK="true" DataType="int" />
+		<Column name="OnlyInStore"					NullOK="true" DataType="int" />
+		<Column name="AllowBackOrder"				NullOK="true" DataType="int" />
+		<Column name="AllowPrebook"					NullOK="true" DataType="int" />
+		<Column name="Weight"						NullOK="true" DataType="float" />
+		<Column name="ProductYear"					NullOK="true" DataType="varchar" DataLength="50" />
+		<Column name="Gender"						NullOK="true" DataType="varchar" DataLength="50" />
+		<Column name="SizeChart"					NullOK="true" DataType="varchar" DataLength="50" />
+		<Column name="Ingredients"					NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="Material"						NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="LivePrice"					NullOK="true" DataType="float" />
+		<Column name="ListPrice"					NullOK="true" DataType="float" />
+		<Column name="OriginalPrice"				NullOK="true" DataType="float" />
+		<Column name="MiscPrice"					NullOK="true" DataType="float" />
+	</Columns>
+</DataTable>

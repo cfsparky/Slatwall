@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DataTable>
+	<TableName>tslatmessage</TableName>
+	<Columns>
+		<Column name="MessageID"	IsIdentity="true" NullOK="false" DataType="int" />
+		<Column name="MessageCode"	NullOK="false" DataType="varchar" DataLength="50" />
+		<Column name="Message" 		NullOK="false" DataType="varchar" DataLength="max" />
+	</Columns>
+</DataTable>

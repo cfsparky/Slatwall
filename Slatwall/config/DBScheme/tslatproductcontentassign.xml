@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DataTable>
+	<TableName>tslatproductcontentassign</TableName>
+	<Columns>
+		<Column name="ContentAssignID"		IsIdentity="true" NullOK="false" DataType="int" />
+		<Column name="ContentID"		 	NullOK="false" DataType="varchar" DataLength="36" />
+		<Column name="ProductID"			NullOK="false" DataType="varchar" DataLength="max" />
+	</Columns>
+</DataTable>

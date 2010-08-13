@@ -1,0 +1,1 @@
+<cfobjectcache action="clear"/>

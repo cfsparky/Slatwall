@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DataTable>
+	<TableName>tslatstates</TableName>
+	<Columns>
+		<Column name="StateCode"					NullOK="false" DataType="varchar" DataLength="50" />
+		<Column name="CountryCode"	 				NullOK="false" DataType="varchar" DataLength="50" />
+		<Column name="StateDisplayName"				NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="StateDisplayNameTranslated"	NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="FedExState"					NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="UPSState"						NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="USPSState"					NullOK="true" DataType="varchar" DataLength="max" />
+	</Columns>
+</DataTable>

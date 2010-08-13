@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TableData>
+	<TableName>tslatcities</TableName>
+	<RemoveAdditionalRecords>true</RemoveAdditionalRecords>
+	<Keys>
+		<Key>CityCode</Key>
+		<Key>CountryCode</Key>
+	</Keys>
+	<Rows>
+		<Row CityCode="Aberdeen" CountryCode="HK" CityDisplayName="Aberdeen" CityDisplayNameTranslated="Aberdeen" FedExCity="Aberdeen" UPSCity="Aberdeen" USPSCity="Aberdeen" />
+		<Row CityCode="Admiralty" CountryCode="HK" CityDisplayName="Admiralty" CityDisplayNameTranslated="Admiralty" FedExCity="Admiralty" UPSCity="Admiralty" USPSCity="Admiralty" />
+		<Row CityCode="Ap lei chau" CountryCode="HK" CityDisplayName="Ap lei chau" CityDisplayNameTranslated="Ap lei chau" FedExCity="Ap lei chau" UPSCity="Ap lei chau" USPSCity="Ap lei chau" />
+		<Row CityCode="Causeway bay" CountryCode="HK" CityDisplayName="Causeway bay" CityDisplayNameTranslated="Causeway bay" FedExCity="Causeway bay" UPSCity="Causeway bay" USPSCity="Causeway bay" />
+		<Row CityCode="Central" CountryCode="HK" CityDisplayName="Central" CityDisplayNameTranslated="Central" FedExCity="Central" UPSCity="Central" USPSCity="Central" />
+		<Row CityCode="Chaiwan" CountryCode="HK" CityDisplayName="Chaiwan" CityDisplayNameTranslated="Chaiwan" FedExCity="Chaiwan" UPSCity="Chaiwan" USPSCity="Chaiwan" />
+		<Row CityCode="Chek lap kok" CountryCode="HK" CityDisplayName="Chek lap kok" CityDisplayNameTranslated="Chek lap kok" FedExCity="Chek lap kok" UPSCity="Chek lap kok" USPSCity="Chek lap kok" />
+		<Row CityCode="Cheung chau" CountryCode="HK" CityDisplayName="Cheung chau" CityDisplayNameTranslated="Cheung chau" FedExCity="Cheung chau" UPSCity="Cheung chau" USPSCity="Cheung chau" />
+		<Row CityCode="Cheung sha wan" CountryCode="HK" CityDisplayName="Cheung sha wan" CityDisplayNameTranslated="Cheung sha wan" FedExCity="Cheung sha wan" UPSCity="Cheung sha wan" USPSCity="Cheung sha wan" />
+		<Row CityCode="Choi hung" CountryCode="HK" CityDisplayName="Choi hung" CityDisplayNameTranslated="Choi hung" FedExCity="Choi hung" UPSCity="Choi hung" USPSCity="Choi hung" />
+		<Row CityCode="Chok ko wan" CountryCode="HK" CityDisplayName="Chok ko wan" CityDisplayNameTranslated="Chok ko wan" FedExCity="Chok ko wan" UPSCity="Chok ko wan" USPSCity="Chok ko wan" />
+		<Row CityCode="Chung hom kok" CountryCode="HK" CityDisplayName="Chung hom kok" CityDisplayNameTranslated="Chung hom kok" FedExCity="Chung hom kok" UPSCity="Chung hom kok" USPSCity="Chung hom kok" />
+		<Row CityCode="Clear water bay" CountryCode="HK" CityDisplayName="Clear water bay" CityDisplayNameTranslated="Clear water bay" FedExCity="Clear water bay" UPSCity="Clear water bay" USPSCity="Clear water bay" />
+		<Row CityCode="Discovery bay" CountryCode="HK" CityDisplayName="Discovery bay" CityDisplayNameTranslated="Discovery bay" FedExCity="Discovery bay" UPSCity="Discovery bay" USPSCity="Discovery bay" />
+		<Row CityCode="Fanling" CountryCode="HK" CityDisplayName="Fanling" CityDisplayNameTranslated="Fanling" FedExCity="Fanling" UPSCity="Fanling" USPSCity="Fanling" />
+		<Row CityCode="Fo tan" CountryCode="HK" CityDisplayName="Fo tan" CityDisplayNameTranslated="Fo tan" FedExCity="Fo tan" UPSCity="Fo tan" USPSCity="Fo tan" />
+		<Row CityCode="Happy valley" CountryCode="HK" CityDisplayName="Happy valley" CityDisplayNameTranslated="Happy valley" FedExCity="Happy valley" UPSCity="Happy valley" USPSCity="Happy valley" />
+		<Row CityCode="Ho man tin" CountryCode="HK" CityDisplayName="Ho man tin" CityDisplayNameTranslated="Ho man tin" FedExCity="Ho man tin" UPSCity="Ho man tin" USPSCity="Ho man tin" />
+		<Row CityCode="Hong lok yuen" CountryCode="HK" CityDisplayName="Hong lok yuen" CityDisplayNameTranslated="Hong lok yuen" FedExCity="Hong lok yuen" UPSCity="Hong lok yuen" USPSCity="Hong lok yuen" />
+		<Row CityCode="Hung hom" CountryCode="HK" CityDisplayName="Hung hom" CityDisplayNameTranslated="Hung hom" FedExCity="Hung hom" UPSCity="Hung hom" USPSCity="Hung hom" />
+		<Row CityCode="Jardine lookout" CountryCode="HK" CityDisplayName="Jardine lookout" CityDisplayNameTranslated="Jardine lookout" FedExCity="Jardine lookout" UPSCity="Jardine lookout" USPSCity="Jardine lookout" />
+		<Row CityCode="Jordan" CountryCode="HK" CityDisplayName="Jordan" CityDisplayNameTranslated="Jordan" FedExCity="Jordan" UPSCity="Jordan" USPSCity="Jordan" />
+		<Row CityCode="Junk bay" CountryCode="HK" CityDisplayName="Junk bay" CityDisplayNameTranslated="Junk bay" FedExCity="Junk bay" UPSCity="Junk bay" USPSCity="Junk bay" />
+		<Row CityCode="Kennedy town" CountryCode="HK" CityDisplayName="Kennedy town" CityDisplayNameTranslated="Kennedy town" FedExCity="Kennedy town" UPSCity="Kennedy town" USPSCity="Kennedy town" />
+		<Row CityCode="Kowloon bay" CountryCode="HK" CityDisplayName="Kowloon bay" CityDisplayNameTranslated="Kowloon bay" FedExCity="Kowloon bay" UPSCity="Kowloon bay" USPSCity="Kowloon bay" />
+		<Row CityCode="Kowloon city" CountryCode="HK" CityDisplayName="Kowloon city" CityDisplayNameTranslated="Kowloon city" FedExCity="Kowloon city" UPSCity="Kowloon city" USPSCity="Kowloon city" />
+		<Row CityCode="Kowloon tong" CountryCode="HK" CityDisplayName="Kowloon tong" CityDisplayNameTranslated="Kowloon tong" FedExCity="Kowloon tong" UPSCity="Kowloon tong" USPSCity="Kowloon tong" />
+		<Row CityCode="Kwai chung" CountryCode="HK" CityDisplayName="Kwai chung" CityDisplayNameTranslated="Kwai chung" FedExCity="Kwai chung" UPSCity="Kwai chung" USPSCity="Kwai chung" />
+		<Row CityCode="Kwai fong" CountryCode="HK" CityDisplayName="Kwai fong" CityDisplayNameTranslated="Kwai fong" FedExCity="Kwai fong" UPSCity="Kwai fong" USPSCity="Kwai fong" />
+		<Row CityCode="Kwun tong" CountryCode="HK" CityDisplayName="Kwun tong" CityDisplayNameTranslated="Kwun tong" FedExCity="Kwun tong" UPSCity="Kwun tong" USPSCity="Kwun tong" />
+		<Row CityCode="Lai chi kok" CountryCode="HK" CityDisplayName="Lai chi kok" CityDisplayNameTranslated="Lai chi kok" FedExCity="Lai chi kok" UPSCity="Lai chi kok" USPSCity="Lai chi kok" />
+		<Row CityCode="Lam tin" CountryCode="HK" CityDisplayName="Lam tin" CityDisplayNameTranslated="Lam tin" FedExCity="Lam tin" UPSCity="Lam tin" USPSCity="Lam tin" />
+		<Row CityCode="Lamma island" CountryCode="HK" CityDisplayName="Lamma island" CityDisplayNameTranslated="Lamma island" FedExCity="Lamma island" UPSCity="Lamma island" USPSCity="Lamma island" />
+		<Row CityCode="Lantau island" CountryCode="HK" CityDisplayName="Lantau island" CityDisplayNameTranslated="Lantau island" FedExCity="Lantau island" UPSCity="Lantau island" USPSCity="Lantau island" />
+		<Row CityCode="Lei yue mun" CountryCode="HK" CityDisplayName="Lei yue mun" CityDisplayNameTranslated="Lei yue mun" FedExCity="Lei yue mun" UPSCity="Lei yue mun" USPSCity="Lei yue mun" />
+		<Row CityCode="Ma on shan" CountryCode="HK" CityDisplayName="Ma on shan" CityDisplayNameTranslated="Ma on shan" FedExCity="Ma on shan" UPSCity="Ma on shan" USPSCity="Ma on shan" />
+		<Row CityCode="Ma wan" CountryCode="HK" CityDisplayName="Ma wan" CityDisplayNameTranslated="Ma wan" FedExCity="Ma wan" UPSCity="Ma wan" USPSCity="Ma wan" />
+		<Row CityCode="Mid-level" CountryCode="HK" CityDisplayName="Mid-level" CityDisplayNameTranslated="Mid-level" FedExCity="Mid-level" UPSCity="Mid-level" USPSCity="Mid-level" />
+		<Row CityCode="North point" CountryCode="HK" CityDisplayName="North point" CityDisplayNameTranslated="North point" FedExCity="North point" UPSCity="North point" USPSCity="North point" />
+		<Row CityCode="Peak" CountryCode="HK" CityDisplayName="Peak" CityDisplayNameTranslated="Peak" FedExCity="Peak" UPSCity="Peak" USPSCity="Peak" />
+		<Row CityCode="Peng chau" CountryCode="HK" CityDisplayName="Peng chau" CityDisplayNameTranslated="Peng chau" FedExCity="Peng chau" UPSCity="Peng chau" USPSCity="Peng chau" />
+		<Row CityCode="Penny's bay" CountryCode="HK" CityDisplayName="Penny's bay" CityDisplayNameTranslated="Penny's bay" FedExCity="Penny's bay" UPSCity="Penny's bay" USPSCity="Penny's bay" />
+		<Row CityCode="Pokfulam" CountryCode="HK" CityDisplayName="Pokfulam" CityDisplayNameTranslated="Pokfulam" FedExCity="Pokfulam" UPSCity="Pokfulam" USPSCity="Pokfulam" />
+		<Row CityCode="Quarry bay" CountryCode="HK" CityDisplayName="Quarry bay" CityDisplayNameTranslated="Quarry bay" FedExCity="Quarry bay" UPSCity="Quarry bay" USPSCity="Quarry bay" />
+		<Row CityCode="Queensway" CountryCode="HK" CityDisplayName="Queensway" CityDisplayNameTranslated="Queensway" FedExCity="Queensway" UPSCity="Queensway" USPSCity="Queensway" />
+		<Row CityCode="Repulse bay" CountryCode="HK" CityDisplayName="Repulse bay" CityDisplayNameTranslated="Repulse bay" FedExCity="Repulse bay" UPSCity="Repulse bay" USPSCity="Repulse bay" />
+		<Row CityCode="Sai kung" CountryCode="HK" CityDisplayName="Sai kung" CityDisplayNameTranslated="Sai kung" FedExCity="Sai kung" UPSCity="Sai kung" USPSCity="Sai kung" />
+		<Row CityCode="Sai wan ho" CountryCode="HK" CityDisplayName="Sai wan ho" CityDisplayNameTranslated="Sai wan ho" FedExCity="Sai wan ho" UPSCity="Sai wan ho" USPSCity="Sai wan ho" />
+		<Row CityCode="Sai ying pun" CountryCode="HK" CityDisplayName="Sai ying pun" CityDisplayNameTranslated="Sai ying pun" FedExCity="Sai ying pun" UPSCity="Sai ying pun" USPSCity="Sai ying pun" />
+		<Row CityCode="San po kong" CountryCode="HK" CityDisplayName="San po kong" CityDisplayNameTranslated="San po kong" FedExCity="San po kong" UPSCity="San po kong" USPSCity="San po kong" />
+		<Row CityCode="Sham shui po" CountryCode="HK" CityDisplayName="Sham shui po" CityDisplayNameTranslated="Sham shui po" FedExCity="Sham shui po" UPSCity="Sham shui po" USPSCity="Sham shui po" />
+		<Row CityCode="Sham tseng" CountryCode="HK" CityDisplayName="Sham tseng" CityDisplayNameTranslated="Sham tseng" FedExCity="Sham tseng" UPSCity="Sham tseng" USPSCity="Sham tseng" />
+		<Row CityCode="Shatin" CountryCode="HK" CityDisplayName="Shatin" CityDisplayNameTranslated="Shatin" FedExCity="Shatin" UPSCity="Shatin" USPSCity="Shatin" />
+		<Row CityCode="Shaukiwan" CountryCode="HK" CityDisplayName="Shaukiwan" CityDisplayNameTranslated="Shaukiwan" FedExCity="Shaukiwan" UPSCity="Shaukiwan" USPSCity="Shaukiwan" />
+		<Row CityCode="Shek kip mei" CountryCode="HK" CityDisplayName="Shek kip mei" CityDisplayNameTranslated="Shek kip mei" FedExCity="Shek kip mei" UPSCity="Shek kip mei" USPSCity="Shek kip mei" />
+		<Row CityCode="Shek o" CountryCode="HK" CityDisplayName="Shek o" CityDisplayNameTranslated="Shek o" FedExCity="Shek o" UPSCity="Shek o" USPSCity="Shek o" />
+		<Row CityCode="Sheung shui" CountryCode="HK" CityDisplayName="Sheung shui" CityDisplayNameTranslated="Sheung shui" FedExCity="Sheung shui" UPSCity="Sheung shui" USPSCity="Sheung shui" />
+		<Row CityCode="Sheung wan" CountryCode="HK" CityDisplayName="Sheung wan" CityDisplayNameTranslated="Sheung wan" FedExCity="Sheung wan" UPSCity="Sheung wan" USPSCity="Sheung wan" />
+		<Row CityCode="Siu lik yuen" CountryCode="HK" CityDisplayName="Siu lik yuen" CityDisplayNameTranslated="Siu lik yuen" FedExCity="Siu lik yuen" UPSCity="Siu lik yuen" USPSCity="Siu lik yuen" />
+		<Row CityCode="Siu sai wan" CountryCode="HK" CityDisplayName="Siu sai wan" CityDisplayNameTranslated="Siu sai wan" FedExCity="Siu sai wan" UPSCity="Siu sai wan" USPSCity="Siu sai wan" />
+		<Row CityCode="South bay" CountryCode="HK" CityDisplayName="South bay" CityDisplayNameTranslated="South bay" FedExCity="South bay" UPSCity="South bay" USPSCity="South bay" />
+		<Row CityCode="Stanley" CountryCode="HK" CityDisplayName="Stanley" CityDisplayNameTranslated="Stanley" FedExCity="Stanley" UPSCity="Stanley" USPSCity="Stanley" />
+		<Row CityCode="Tai hang" CountryCode="HK" CityDisplayName="Tai hang" CityDisplayNameTranslated="Tai hang" FedExCity="Tai hang" UPSCity="Tai hang" USPSCity="Tai hang" />
+		<Row CityCode="Tai kok tsui" CountryCode="HK" CityDisplayName="Tai kok tsui" CityDisplayNameTranslated="Tai kok tsui" FedExCity="Tai kok tsui" UPSCity="Tai kok tsui" USPSCity="Tai kok tsui" />
+		<Row CityCode="Tai o" CountryCode="HK" CityDisplayName="Tai o" CityDisplayNameTranslated="Tai o" FedExCity="Tai o" UPSCity="Tai o" USPSCity="Tai o" />
+		<Row CityCode="Tai wai" CountryCode="HK" CityDisplayName="Tai wai" CityDisplayNameTranslated="Tai wai" FedExCity="Tai wai" UPSCity="Tai wai" USPSCity="Tai wai" />
+		<Row CityCode="Taipo" CountryCode="HK" CityDisplayName="Taipo" CityDisplayNameTranslated="Taipo" FedExCity="Taipo" UPSCity="Taipo" USPSCity="Taipo" />
+		<Row CityCode="Tin shui wai" CountryCode="HK" CityDisplayName="Tin shui wai" CityDisplayNameTranslated="Tin shui wai" FedExCity="Tin shui wai" UPSCity="Tin shui wai" USPSCity="Tin shui wai" />
+		<Row CityCode="Tokwawan" CountryCode="HK" CityDisplayName="Tokwawan" CityDisplayNameTranslated="Tokwawan" FedExCity="Tokwawan" UPSCity="Tokwawan" USPSCity="Tokwawan" />
+		<Row CityCode="Tseung kwan o" CountryCode="HK" CityDisplayName="Tseung kwan o" CityDisplayNameTranslated="Tseung kwan o" FedExCity="Tseung kwan o" UPSCity="Tseung kwan o" USPSCity="Tseung kwan o" />
+		<Row CityCode="Tsimshatsui" CountryCode="HK" CityDisplayName="Tsimshatsui" CityDisplayNameTranslated="Tsimshatsui" FedExCity="Tsimshatsui" UPSCity="Tsimshatsui" USPSCity="Tsimshatsui" />
+		<Row CityCode="Tsimshatsui east" CountryCode="HK" CityDisplayName="Tsimshatsui east" CityDisplayNameTranslated="Tsimshatsui east" FedExCity="Tsimshatsui east" UPSCity="Tsimshatsui east" USPSCity="Tsimshatsui east" />
+		<Row CityCode="Tsing yi" CountryCode="HK" CityDisplayName="Tsing yi" CityDisplayNameTranslated="Tsing yi" FedExCity="Tsing yi" UPSCity="Tsing yi" USPSCity="Tsing yi" />
+		<Row CityCode="Tsuen wan" CountryCode="HK" CityDisplayName="Tsuen wan" CityDisplayNameTranslated="Tsuen wan" FedExCity="Tsuen wan" UPSCity="Tsuen wan" USPSCity="Tsuen wan" />
+		<Row CityCode="Tsz wan shan" CountryCode="HK" CityDisplayName="Tsz wan shan" CityDisplayNameTranslated="Tsz wan shan" FedExCity="Tsz wan shan" UPSCity="Tsz wan shan" USPSCity="Tsz wan shan" />
+		<Row CityCode="Tuen mun" CountryCode="HK" CityDisplayName="Tuen mun" CityDisplayNameTranslated="Tuen mun" FedExCity="Tuen mun" UPSCity="Tuen mun" USPSCity="Tuen mun" />
+		<Row CityCode="Tung chung" CountryCode="HK" CityDisplayName="Tung chung" CityDisplayNameTranslated="Tung chung" FedExCity="Tung chung" UPSCity="Tung chung" USPSCity="Tung chung" />
+		<Row CityCode="Wanchai" CountryCode="HK" CityDisplayName="Wanchai" CityDisplayNameTranslated="Wanchai" FedExCity="Wanchai" UPSCity="Wanchai" USPSCity="Wanchai" />
+		<Row CityCode="Wang tau hom" CountryCode="HK" CityDisplayName="Wang tau hom" CityDisplayNameTranslated="Wang tau hom" FedExCity="Wang tau hom" UPSCity="Wang tau hom" USPSCity="Wang tau hom" />
+		<Row CityCode="Western" CountryCode="HK" CityDisplayName="Western" CityDisplayNameTranslated="Western" FedExCity="Western" UPSCity="Western" USPSCity="Western" />
+		<Row CityCode="Wong chuk hang" CountryCode="HK" CityDisplayName="Wong chuk hang" CityDisplayNameTranslated="Wong chuk hang" FedExCity="Wong chuk hang" UPSCity="Wong chuk hang" USPSCity="Wong chuk hang" />
+		<Row CityCode="Yau ma tei" CountryCode="HK" CityDisplayName="Yau ma tei" CityDisplayNameTranslated="Yau ma tei" FedExCity="Yau ma tei" UPSCity="Yau ma tei" USPSCity="Yau ma tei" />
+		<Row CityCode="Yau tong" CountryCode="HK" CityDisplayName="Yau tong" CityDisplayNameTranslated="Yau tong" FedExCity="Yau tong" UPSCity="Yau tong" USPSCity="Yau tong" />
+		<Row CityCode="Yau yat chuen" CountryCode="HK" CityDisplayName="Yau yat chuen" CityDisplayNameTranslated="Yau yat chuen" FedExCity="Yau yat chuen" UPSCity="Yau yat chuen" USPSCity="Yau yat chuen" />
+		<Row CityCode="Yuen long" CountryCode="HK" CityDisplayName="Yuen long" CityDisplayNameTranslated="Yuen long" FedExCity="Yuen long" UPSCity="Yuen long" USPSCity="Yuen long" />
+		<Row CityCode="Encinitas" CountryCode="US" CityDisplayName="Encinitas" CityDisplayNameTranslated="Encinitas" FedExCity="Encinitas" UPSCity="Encinitas" USPSCity="Encinitas" />
+	</Rows>
+</TableData>

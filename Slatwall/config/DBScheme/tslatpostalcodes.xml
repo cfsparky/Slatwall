@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DataTable>
+	<TableName>tslatpostalcodes</TableName>
+	<Columns>
+		<Column name="PostalCode"	NullOK="false" DataType="varchar" DataLength="50" />
+		<Column name="CountryCode"	NullOK="false" DataType="varchar" DataLength="50" />
+		<Column name="StateCode"	NullOK="false" DataType="varchar" DataLength="50" />
+	</Columns>
+</DataTable>

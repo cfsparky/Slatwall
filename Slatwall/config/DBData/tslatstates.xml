@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TableData>
+	<TableName>tslatstates</TableName>
+	<RemoveAdditionalRecords>true</RemoveAdditionalRecords>
+	<Keys>
+		<Key>StateCode</Key>
+		<Key>CountryCode</Key>
+	</Keys>
+	<Rows>	
+		<Row StateCode="AK" CountryCode="US" StateDisplayName="Alaska" StateDisplayNameTranslated="Alaska" FedExState="AK" UPSState="AK" USPSState="AK" />
+		<Row StateCode="AL" CountryCode="US" StateDisplayName="Alabama" StateDisplayNameTranslated="Alabama" FedExState="AL" UPSState="AL" USPSState="AL" />
+		<Row StateCode="AR" CountryCode="US" StateDisplayName="Arkansas" StateDisplayNameTranslated="Arkansas" FedExState="AR" UPSState="AR" USPSState="AR" />
+		<Row StateCode="AZ" CountryCode="US" StateDisplayName="Arizona" StateDisplayNameTranslated="Arizona" FedExState="AZ" UPSState="AZ" USPSState="AZ" />
+		<Row StateCode="CA" CountryCode="US" StateDisplayName="California" StateDisplayNameTranslated="California" FedExState="CA" UPSState="CA" USPSState="CA" />
+		<Row StateCode="CO" CountryCode="US" StateDisplayName="Colorado" StateDisplayNameTranslated="Colorado" FedExState="CO" UPSState="CO" USPSState="CO" />
+		<Row StateCode="CT" CountryCode="US" StateDisplayName="Connecticut" StateDisplayNameTranslated="Connecticut" FedExState="CT" UPSState="CT" USPSState="CT" />
+		<Row StateCode="DC" CountryCode="US" StateDisplayName="D.C." StateDisplayNameTranslated="D.C." FedExState="DC" UPSState="DC" USPSState="DC" />
+		<Row StateCode="DE" CountryCode="US" StateDisplayName="Delaware" StateDisplayNameTranslated="Delaware" FedExState="DE" UPSState="DE" USPSState="DE" />
+		<Row StateCode="FL" CountryCode="US" StateDisplayName="Florida" StateDisplayNameTranslated="Florida" FedExState="FL" UPSState="FL" USPSState="FL" />
+		<Row StateCode="GA" CountryCode="US" StateDisplayName="Georgia" StateDisplayNameTranslated="Georgia" FedExState="GA" UPSState="GA" USPSState="GA" />
+		<Row StateCode="HI" CountryCode="US" StateDisplayName="Hawaii" StateDisplayNameTranslated="Hawaii" FedExState="HI" UPSState="HI" USPSState="HI" />
+		<Row StateCode="IA" CountryCode="US" StateDisplayName="Iowa" StateDisplayNameTranslated="Iowa" FedExState="IA" UPSState="IA" USPSState="IA" />
+		<Row StateCode="ID" CountryCode="US" StateDisplayName="Idaho" StateDisplayNameTranslated="Idaho" FedExState="ID" UPSState="ID" USPSState="ID" />
+		<Row StateCode="IL" CountryCode="US" StateDisplayName="Illinois" StateDisplayNameTranslated="Illinois" FedExState="IL" UPSState="IL" USPSState="IL" />
+		<Row StateCode="IN" CountryCode="US" StateDisplayName="Indiana" StateDisplayNameTranslated="Indiana" FedExState="IN" UPSState="IN" USPSState="IN" />
+		<Row StateCode="KS" CountryCode="US" StateDisplayName="Kansas" StateDisplayNameTranslated="Kansas" FedExState="KS" UPSState="KS" USPSState="KS" />
+		<Row StateCode="KY" CountryCode="US" StateDisplayName="Kentucky" StateDisplayNameTranslated="Kentucky" FedExState="KY" UPSState="KY" USPSState="KY" />
+		<Row StateCode="LA" CountryCode="US" StateDisplayName="Louisiana" StateDisplayNameTranslated="Louisiana" FedExState="LA" UPSState="LA" USPSState="LA" />
+		<Row StateCode="MA" CountryCode="US" StateDisplayName="Massachusetts" StateDisplayNameTranslated="Massachusetts" FedExState="MA" UPSState="MA" USPSState="MA" />
+		<Row StateCode="MD" CountryCode="US" StateDisplayName="Maryland" StateDisplayNameTranslated="Maryland" FedExState="MD" UPSState="MD" USPSState="MD" />
+		<Row StateCode="ME" CountryCode="US" StateDisplayName="Maine" StateDisplayNameTranslated="Maine" FedExState="ME" UPSState="ME" USPSState="ME" />
+		<Row StateCode="MI" CountryCode="US" StateDisplayName="Michigan" StateDisplayNameTranslated="Michigan" FedExState="MI" UPSState="MI" USPSState="MI" />
+		<Row StateCode="MN" CountryCode="US" StateDisplayName="Minnesota" StateDisplayNameTranslated="Minnesota" FedExState="MN" UPSState="MN" USPSState="MN" />
+		<Row StateCode="MO" CountryCode="US" StateDisplayName="Missouri" StateDisplayNameTranslated="Missouri" FedExState="MO" UPSState="MO" USPSState="MO" />
+		<Row StateCode="MS" CountryCode="US" StateDisplayName="Mississippi" StateDisplayNameTranslated="Mississippi" FedExState="MS" UPSState="MS" USPSState="MS" />
+		<Row StateCode="MT" CountryCode="US" StateDisplayName="Montana" StateDisplayNameTranslated="Montana" FedExState="MT" UPSState="MT" USPSState="MT" />
+		<Row StateCode="NC" CountryCode="US" StateDisplayName="North Carolina" StateDisplayNameTranslated="North Carolina" FedExState="NC" UPSState="NC" USPSState="NC" />
+		<Row StateCode="ND" CountryCode="US" StateDisplayName="North Dakota" StateDisplayNameTranslated="North Dakota" FedExState="ND" UPSState="ND" USPSState="ND" />
+		<Row StateCode="NE" CountryCode="US" StateDisplayName="Nebraska" StateDisplayNameTranslated="Nebraska" FedExState="NE" UPSState="NE" USPSState="NE" />
+		<Row StateCode="NH" CountryCode="US" StateDisplayName="New Hampshire" StateDisplayNameTranslated="New Hampshire" FedExState="NH" UPSState="NH" USPSState="NH" />
+		<Row StateCode="NJ" CountryCode="US" StateDisplayName="New Jersey" StateDisplayNameTranslated="New Jersey" FedExState="NJ" UPSState="NJ" USPSState="NJ" />
+		<Row StateCode="NM" CountryCode="US" StateDisplayName="New Mexico" StateDisplayNameTranslated="New Mexico" FedExState="NM" UPSState="NM" USPSState="NM" />
+		<Row StateCode="NV" CountryCode="US" StateDisplayName="Nevada" StateDisplayNameTranslated="Nevada" FedExState="NV" UPSState="NV" USPSState="NV" />
+		<Row StateCode="NY" CountryCode="US" StateDisplayName="New York" StateDisplayNameTranslated="New York" FedExState="NY" UPSState="NY" USPSState="NY" />
+		<Row StateCode="OH" CountryCode="US" StateDisplayName="Ohio" StateDisplayNameTranslated="Ohio" FedExState="OH" UPSState="OH" USPSState="OH" />
+		<Row StateCode="OK" CountryCode="US" StateDisplayName="Oklahoma" StateDisplayNameTranslated="Oklahoma" FedExState="OK" UPSState="OK" USPSState="OK" />
+		<Row StateCode="OR" CountryCode="US" StateDisplayName="Oregon" StateDisplayNameTranslated="Oregon" FedExState="OR" UPSState="OR" USPSState="OR" />
+		<Row StateCode="PA" CountryCode="US" StateDisplayName="Pennsylvania" StateDisplayNameTranslated="Pennsylvania" FedExState="PA" UPSState="PA" USPSState="PA" />
+		<Row StateCode="RI" CountryCode="US" StateDisplayName="Rhode Island" StateDisplayNameTranslated="Rhode Island" FedExState="RI" UPSState="RI" USPSState="RI" />
+		<Row StateCode="SC" CountryCode="US" StateDisplayName="South Carolina" StateDisplayNameTranslated="South Carolina" FedExState="SC" UPSState="SC" USPSState="SC" />
+		<Row StateCode="SD" CountryCode="US" StateDisplayName="South Dakota" StateDisplayNameTranslated="South Dakota" FedExState="SD" UPSState="SD" USPSState="SD" />
+		<Row StateCode="TN" CountryCode="US" StateDisplayName="Tennessee" StateDisplayNameTranslated="Tennessee" FedExState="TN" UPSState="TN" USPSState="TN" />
+		<Row StateCode="TX" CountryCode="US" StateDisplayName="Texas" StateDisplayNameTranslated="Texas" FedExState="TX" UPSState="TX" USPSState="TX" />
+		<Row StateCode="UT" CountryCode="US" StateDisplayName="Utah" StateDisplayNameTranslated="Utah" FedExState="UT" UPSState="UT" USPSState="UT" />
+		<Row StateCode="VA" CountryCode="US" StateDisplayName="Virginia" StateDisplayNameTranslated="Virginia" FedExState="VA" UPSState="VA" USPSState="VA" />
+		<Row StateCode="VT" CountryCode="US" StateDisplayName="Vermont" StateDisplayNameTranslated="Vermont" FedExState="VT" UPSState="VT" USPSState="VT" />
+		<Row StateCode="WA" CountryCode="US" StateDisplayName="Washington" StateDisplayNameTranslated="Washington" FedExState="WA" UPSState="WA" USPSState="WA" />
+		<Row StateCode="WI" CountryCode="US" StateDisplayName="Wisconsin" StateDisplayNameTranslated="Wisconsin" FedExState="WI" UPSState="WI" USPSState="WI" />
+		<Row StateCode="WV" CountryCode="US" StateDisplayName="West Virginia" StateDisplayNameTranslated="West Virginia" FedExState="WV" UPSState="WV" USPSState="WV" />
+		<Row StateCode="WY" CountryCode="US" StateDisplayName="Wyoming" StateDisplayNameTranslated="Wyoming" FedExState="WY" UPSState="WY" USPSState="WY" />
+		<Row StateCode="AB" CountryCode="CA" StateDisplayName="Alberta" StateDisplayNameTranslated="Alberta" FedExState="AB" UPSState="AB" USPSState="AB" />
+		<Row StateCode="BC" CountryCode="CA" StateDisplayName="British Columbia" StateDisplayNameTranslated="British Columbia" FedExState="BC" UPSState="BC" USPSState="BC" />
+		<Row StateCode="MB" CountryCode="CA" StateDisplayName="Manitoba" StateDisplayNameTranslated="Manitoba" FedExState="MB" UPSState="MB" USPSState="MB" />
+		<Row StateCode="NB" CountryCode="CA" StateDisplayName="New Brunswick" StateDisplayNameTranslated="New Brunswick" FedExState="NB" UPSState="NB" USPSState="NB" />
+		<Row StateCode="NL" CountryCode="CA" StateDisplayName="Newfoundland and Labrador" StateDisplayNameTranslated="Newfoundland and Labrador" FedExState="NL" UPSState="NL" USPSState="NL" />
+		<Row StateCode="NT" CountryCode="CA" StateDisplayName="Northwest Territories" StateDisplayNameTranslated="Northwest Territories" FedExState="NT" UPSState="NT" USPSState="NT" />
+		<Row StateCode="NS" CountryCode="CA" StateDisplayName="Nova Scotia" StateDisplayNameTranslated="Nova Scotia" FedExState="NS" UPSState="NS" USPSState="NS" />
+		<Row StateCode="NU" CountryCode="CA" StateDisplayName="Nunavut" StateDisplayNameTranslated="Nunavut" FedExState="NU" UPSState="NU" USPSState="NU" />
+		<Row StateCode="ON" CountryCode="CA" StateDisplayName="Ontario" StateDisplayNameTranslated="Ontario" FedExState="ON" UPSState="ON" USPSState="ON" />
+		<Row StateCode="PE" CountryCode="CA" StateDisplayName="Prince Edward Island" StateDisplayNameTranslated="Prince Edward Island" FedExState="PE" UPSState="PE" USPSState="PE" />
+		<Row StateCode="QC" CountryCode="CA" StateDisplayName="Quebec" StateDisplayNameTranslated="Quebec" FedExState="QC" UPSState="QC" USPSState="QC" />
+		<Row StateCode="SK" CountryCode="CA" StateDisplayName="Saskatchewan" StateDisplayNameTranslated="Saskatchewan" FedExState="SK" UPSState="SK" USPSState="SK" />
+		<Row StateCode="YT" CountryCode="CA" StateDisplayName="Yukon" StateDisplayNameTranslated="Yukon" FedExState="YT" UPSState="YT" USPSState="YT" />
+		<Row StateCode="AG" CountryCode="MX" StateDisplayName="Aguascalientes" StateDisplayNameTranslated="Aguascalientes" FedExState="AG" UPSState="AG" USPSState="AG" />
+		<Row StateCode="BJ" CountryCode="MX" StateDisplayName="Baja California" StateDisplayNameTranslated="Baja California" FedExState="BJ" UPSState="BJ" USPSState="BJ" />
+		<Row StateCode="BS" CountryCode="MX" StateDisplayName="Baja California Sur" StateDisplayNameTranslated="Baja California Sur" FedExState="BS" UPSState="BS" USPSState="BS" />
+		<Row StateCode="CP" CountryCode="MX" StateDisplayName="Campeche" StateDisplayNameTranslated="Campeche" FedExState="CP" UPSState="CP" USPSState="CP" />
+		<Row StateCode="CH" CountryCode="MX" StateDisplayName="Chiapas" StateDisplayNameTranslated="Chiapas" FedExState="CH" UPSState="CH" USPSState="CH" />
+		<Row StateCode="CI" CountryCode="MX" StateDisplayName="Chihuahua" StateDisplayNameTranslated="Chihuahua" FedExState="CI" UPSState="CI" USPSState="CI" />
+		<Row StateCode="CU" CountryCode="MX" StateDisplayName="Coahuila" StateDisplayNameTranslated="Coahuila" FedExState="CU" UPSState="CU" USPSState="CU" />
+		<Row StateCode="CL" CountryCode="MX" StateDisplayName="Colima" StateDisplayNameTranslated="Colima" FedExState="CL" UPSState="CL" USPSState="CL" />
+		<Row StateCode="DF" CountryCode="MX" StateDisplayName="Distrito Federal" StateDisplayNameTranslated="Distrito Federal" FedExState="DF" UPSState="DF" USPSState="DF" />
+		<Row StateCode="DG" CountryCode="MX" StateDisplayName="Durango" StateDisplayNameTranslated="Durango" FedExState="DG" UPSState="DG" USPSState="DG" />
+		<Row StateCode="GJ" CountryCode="MX" StateDisplayName="Guanajuato" StateDisplayNameTranslated="Guanajuato" FedExState="GJ" UPSState="GJ" USPSState="GJ" />
+		<Row StateCode="GR" CountryCode="MX" StateDisplayName="Guerrero" StateDisplayNameTranslated="Guerrero" FedExState="GR" UPSState="GR" USPSState="GR" />
+		<Row StateCode="HG" CountryCode="MX" StateDisplayName="Hidalgo" StateDisplayNameTranslated="Hidalgo" FedExState="HG" UPSState="HG" USPSState="HG" />
+		<Row StateCode="JA" CountryCode="MX" StateDisplayName="Jalisco" StateDisplayNameTranslated="Jalisco" FedExState="JA" UPSState="JA" USPSState="JA" />
+		<Row StateCode="EM" CountryCode="MX" StateDisplayName="Mexico" StateDisplayNameTranslated="Mexico" FedExState="EM" UPSState="EM" USPSState="EM" />
+		<Row StateCode="MH" CountryCode="MX" StateDisplayName="Michoacan" StateDisplayNameTranslated="Michoacan" FedExState="MH" UPSState="MH" USPSState="MH" />
+		<Row StateCode="MR" CountryCode="MX" StateDisplayName="Morelos" StateDisplayNameTranslated="Morelos" FedExState="MR" UPSState="MR" USPSState="MR" />
+		<Row StateCode="NA" CountryCode="MX" StateDisplayName="Nayarit" StateDisplayNameTranslated="Nayarit" FedExState="NA" UPSState="NA" USPSState="NA" />
+		<Row StateCode="NL" CountryCode="MX" StateDisplayName="Nuevo Leon" StateDisplayNameTranslated="Nuevo Leon" FedExState="NL" UPSState="NL" USPSState="NL" />
+		<Row StateCode="OA" CountryCode="MX" StateDisplayName="Oaxaca" StateDisplayNameTranslated="Oaxaca" FedExState="OA" UPSState="OA" USPSState="OA" />
+		<Row StateCode="PU" CountryCode="MX" StateDisplayName="Puebla" StateDisplayNameTranslated="Puebla" FedExState="PU" UPSState="PU" USPSState="PU" />
+		<Row StateCode="QA" CountryCode="MX" StateDisplayName="Queretaro" StateDisplayNameTranslated="Queretaro" FedExState="QA" UPSState="QA" USPSState="QA" />
+		<Row StateCode="QR" CountryCode="MX" StateDisplayName="Quintana Roo" StateDisplayNameTranslated="Quintana Roo" FedExState="QR" UPSState="QR" USPSState="QR" />
+		<Row StateCode="SL" CountryCode="MX" StateDisplayName="San Luis Potosi" StateDisplayNameTranslated="San Luis Potosi" FedExState="SL" UPSState="SL" USPSState="SL" />
+		<Row StateCode="SI" CountryCode="MX" StateDisplayName="Sinaloa" StateDisplayNameTranslated="Sinaloa" FedExState="SI" UPSState="SI" USPSState="SI" />
+		<Row StateCode="TA" CountryCode="MX" StateDisplayName="Tabasco" StateDisplayNameTranslated="Tabasco" FedExState="TA" UPSState="TA" USPSState="TA" />
+		<Row StateCode="TM" CountryCode="MX" StateDisplayName="Tamaulipas" StateDisplayNameTranslated="Tamaulipas" FedExState="TM" UPSState="TM" USPSState="TM" />
+		<Row StateCode="TL" CountryCode="MX" StateDisplayName="Tlaxcala" StateDisplayNameTranslated="Tlaxcala" FedExState="TL" UPSState="TL" USPSState="TL" />
+		<Row StateCode="VZ" CountryCode="MX" StateDisplayName="Veracruz" StateDisplayNameTranslated="Veracruz" FedExState="VZ" UPSState="VZ" USPSState="VZ" />
+		<Row StateCode="YC" CountryCode="MX" StateDisplayName="Yucatan" StateDisplayNameTranslated="Yucatan" FedExState="YC" UPSState="YC" USPSState="YC" />
+		<Row StateCode="ZT" CountryCode="MX" StateDisplayName="Zacatecas" StateDisplayNameTranslated="Zacatecas" FedExState="ZT" UPSState="ZT" USPSState="ZT" />
+		<Row StateCode="AC" CountryCode="BR" StateDisplayName="Acre" StateDisplayNameTranslated="Acre" FedExState="AC" UPSState="AC" USPSState="AC" />
+		<Row StateCode="AL" CountryCode="BR" StateDisplayName="Alagoas" StateDisplayNameTranslated="Alagoas" FedExState="AL" UPSState="AL" USPSState="AL" />
+		<Row StateCode="AP" CountryCode="BR" StateDisplayName="Amapa" StateDisplayNameTranslated="Amapa" FedExState="AP" UPSState="AP" USPSState="AP" />
+		<Row StateCode="AM" CountryCode="BR" StateDisplayName="Amazonas" StateDisplayNameTranslated="Amazonas" FedExState="AM" UPSState="AM" USPSState="AM" />
+		<Row StateCode="BA" CountryCode="BR" StateDisplayName="Bahia" StateDisplayNameTranslated="Bahia" FedExState="BA" UPSState="BA" USPSState="BA" />
+		<Row StateCode="CE" CountryCode="BR" StateDisplayName="Ceara" StateDisplayNameTranslated="Ceara" FedExState="CE" UPSState="CE" USPSState="CE" />
+		<Row StateCode="DF" CountryCode="BR" StateDisplayName="Distrito Federal" StateDisplayNameTranslated="Distrito Federal" FedExState="DF" UPSState="DF" USPSState="DF" />
+		<Row StateCode="ES" CountryCode="BR" StateDisplayName="Espirito Santo" StateDisplayNameTranslated="Espirito Santo" FedExState="ES" UPSState="ES" USPSState="ES" />
+		<Row StateCode="GO" CountryCode="BR" StateDisplayName="Goias" StateDisplayNameTranslated="Goias" FedExState="GO" UPSState="GO" USPSState="GO" />
+		<Row StateCode="MA" CountryCode="BR" StateDisplayName="Maranhao" StateDisplayNameTranslated="Maranhao" FedExState="MA" UPSState="MA" USPSState="MA" />
+		<Row StateCode="MT" CountryCode="BR" StateDisplayName="Mato Grosso" StateDisplayNameTranslated="Mato Grosso" FedExState="MT" UPSState="MT" USPSState="MT" />
+		<Row StateCode="MS" CountryCode="BR" StateDisplayName="Mato Grosso do Sul" StateDisplayNameTranslated="Mato Grosso do Sul" FedExState="MS" UPSState="MS" USPSState="MS" />
+		<Row StateCode="MG" CountryCode="BR" StateDisplayName="Minas Gerais" StateDisplayNameTranslated="Minas Gerais" FedExState="MG" UPSState="MG" USPSState="MG" />
+		<Row StateCode="PA" CountryCode="BR" StateDisplayName="Para" StateDisplayNameTranslated="Para" FedExState="PA" UPSState="PA" USPSState="PA" />
+		<Row StateCode="PB" CountryCode="BR" StateDisplayName="Paraiba" StateDisplayNameTranslated="Paraiba" FedExState="PB" UPSState="PB" USPSState="PB" />
+		<Row StateCode="PR" CountryCode="BR" StateDisplayName="Parana" StateDisplayNameTranslated="Parana" FedExState="PR" UPSState="PR" USPSState="PR" />
+		<Row StateCode="PE" CountryCode="BR" StateDisplayName="Pernambuco" StateDisplayNameTranslated="Pernambuco" FedExState="PE" UPSState="PE" USPSState="PE" />
+		<Row StateCode="PI" CountryCode="BR" StateDisplayName="Piaui" StateDisplayNameTranslated="Piaui" FedExState="PI" UPSState="PI" USPSState="PI" />
+		<Row StateCode="RJ" CountryCode="BR" StateDisplayName="Rio De Janeiro" StateDisplayNameTranslated="Rio De Janeiro" FedExState="RJ" UPSState="RJ" USPSState="RJ" />
+		<Row StateCode="RN" CountryCode="BR" StateDisplayName="Rio Grande do Norte" StateDisplayNameTranslated="Rio Grande do Norte" FedExState="RN" UPSState="RN" USPSState="RN" />
+		<Row StateCode="RS" CountryCode="BR" StateDisplayName="Rio Grande do Sul" StateDisplayNameTranslated="Rio Grande do Sul" FedExState="RS" UPSState="RS" USPSState="RS" />
+		<Row StateCode="RO" CountryCode="BR" StateDisplayName="Rodonia" StateDisplayNameTranslated="Rodonia" FedExState="RO" UPSState="RO" USPSState="RO" />
+		<Row StateCode="RR" CountryCode="BR" StateDisplayName="Roraima" StateDisplayNameTranslated="Roraima" FedExState="RR" UPSState="RR" USPSState="RR" />
+		<Row StateCode="SC" CountryCode="BR" StateDisplayName="Santa Catarina" StateDisplayNameTranslated="Santa Catarina" FedExState="SC" UPSState="SC" USPSState="SC" />
+		<Row StateCode="SP" CountryCode="BR" StateDisplayName="Sao Paulo" StateDisplayNameTranslated="Sao Paulo" FedExState="SP" UPSState="SP" USPSState="SP" />
+		<Row StateCode="SE" CountryCode="BR" StateDisplayName="Sergipe" StateDisplayNameTranslated="Sergipe" FedExState="SE" UPSState="SE" USPSState="SE" />
+		<Row StateCode="TO" CountryCode="BR" StateDisplayName="Tocantins" StateDisplayNameTranslated="Tocantins" FedExState="TO" UPSState="TO" USPSState="TO" />
+		<Row StateCode="ACT" CountryCode="AU" StateDisplayName="Australian Capital Territory" StateDisplayNameTranslated="Australian Capital Territory" FedExState="AC" UPSState="ACT" USPSState="ACT" />
+		<Row StateCode="NSW" CountryCode="AU" StateDisplayName="New South Wales" StateDisplayNameTranslated="New South Wales" FedExState="NS" UPSState="NSW" USPSState="NSW" />
+		<Row StateCode="NT" CountryCode="AU" StateDisplayName="Northern Territory" StateDisplayNameTranslated="Northern Territory" FedExState="NT" UPSState="NT" USPSState="NT" />
+		<Row StateCode="QLD" CountryCode="AU" StateDisplayName="Queensland" StateDisplayNameTranslated="Queensland" FedExState="QL" UPSState="QLD" USPSState="QLD" />
+		<Row StateCode="SA" CountryCode="AU" StateDisplayName="South Australia" StateDisplayNameTranslated="South Australia" FedExState="SA" UPSState="SA" USPSState="SA" />
+		<Row StateCode="TAS" CountryCode="AU" StateDisplayName="Tasmania" StateDisplayNameTranslated="Tasmania" FedExState="TA" UPSState="TAS" USPSState="TAS" />
+		<Row StateCode="VIC" CountryCode="AU" StateDisplayName="Vuctoria" StateDisplayNameTranslated="Vuctoria" FedExState="VI" UPSState="VIC" USPSState="VIC" />
+		<Row StateCode="WA" CountryCode="AU" StateDisplayName="Western Australia" StateDisplayNameTranslated="Western Australia" FedExState="WA" UPSState="WA" USPSState="WA" />
+	</Rows>
+</TableData>

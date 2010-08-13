@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DataTable>
+	<TableName>tslatcities</TableName>
+	<Columns>
+		<Column name="CityCode" 					NullOK="false" DataType="varchar" DataLength="50" />
+		<Column name="CountryCode" 					NullOK="false" DataType="varchar" DataLength="50" />
+		<Column name="CityDisplayName" 				NullOK="true" DataType="varchar" DataLength="50" />
+		<Column name="CityDisplayNameTranslated" 	NullOK="true" DataType="varchar" DataLength="50" />
+		<Column name="FedExCity" 					NullOK="true" DataType="varchar" DataLength="50" />
+		<Column name="UPSCity" 						NullOK="true" DataType="varchar" DataLength="50" />
+		<Column name="USPSCity"						NullOK="true" DataType="varchar" DataLength="50" />
+	</Columns>
+</DataTable>

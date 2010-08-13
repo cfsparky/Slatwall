@@ -1,0 +1,1 @@
+<cfset application.contentManager.deleteComment(form.CommentID) />

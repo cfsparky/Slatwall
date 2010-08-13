@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DataTable>
+	<TableName>tslatlog</TableName>
+	<Columns>
+		<Column name="LogID" 			IsIdentity="true" NullOK="false" DataType="int"  />
+		<Column name="RequestStart" 	NullOK="true" DataType="varchar" DataLength="50" />
+		<Column name="RequestEnd" 		NullOK="true" DataType="varchar" DataLength="50" />
+		<Column name="LogType" 			NullOK="true" DataType="varchar" DataLength="50" />
+		<Column name="SessionValues" 	NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="FormValues" 		NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="CGIValues"		NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="SupportingInfo"	NullOK="true" DataType="varchar" DataLength="max" />
+	</Columns>
+</DataTable>

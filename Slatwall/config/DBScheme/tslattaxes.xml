@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DataTable>
+	<TableName>tslattaxes</TableName>
+	<Columns>
+		<Column name="TaxID"		IsIdentity="true" NullOK="false" DataType="int" />
+		<Column name="TaxType"	 	NullOK="false" DataType="varchar" DataLength="50" />
+		<Column name="Country"	 	NullOK="true" DataType="varchar" DataLength="50" />
+		<Column name="Locality"		NullOK="true" DataType="varchar" DataLength="50" />
+		<Column name="State"		NullOK="true" DataType="varchar" DataLength="50" />
+		<Column name="City"			NullOK="true" DataType="varchar" DataLength="50" />
+		<Column name="PostalCode"	NullOK="true" DataType="varchar" DataLength="50" />
+		<Column name="TaxRate"		NullOK="false" DataType="float" />
+	</Columns>
+</DataTable>

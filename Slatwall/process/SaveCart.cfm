@@ -1,0 +1,1 @@
+<cfset application.Slat.cartManager.saveCart() />

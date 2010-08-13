@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DataTable>
+	<TableName>tslatcountries</TableName>
+	<Columns>
+		<Column name="CountryCode" 						NullOK="false" DataType="varchar" DataLength="50" />
+		<Column name="CountryDisplayName" 				NullOK="false" DataType="varchar" DataLength="max" />
+		<Column name="CountryDisplayNameTranslated"		NullOK="false" DataType="varchar" DataLength="max" />
+		<Column name="Active"					 		NullOK="false" DataType="int" />
+		<Column name="StateDisplayType" 				NullOK="false" DataType="int" />
+		<Column name="StateDisplayName" 				NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="StateDisplayNameTranslated"		NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="LocalityDisplayType"				NullOK="false" DataType="int" />
+		<Column name="LocalityDisplayName"				NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="LocalityDisplayNameTranslated"	NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="CityDisplayType"					NullOK="false" DataType="int" />
+		<Column name="CityDisplayName"					NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="CityDisplayNameTranslated"		NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="PostalCodeDisplayType"			NullOK="false" DataType="int" />
+		<Column name="PostalCodeDisplayName"			NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="PostalCodeDisplayNameTranslated"	NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="StreetDisplayType" 				NullOK="false" DataType="int" />
+		<Column name="StreetDisplayName" 				NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="StreetDisplayNameTranslated"		NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="Street2DisplayType" 				NullOK="false" DataType="int" />
+		<Column name="Street2DisplayName" 				NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="Street2DisplayNameTranslated"		NullOK="true" DataType="varchar" DataLength="max" />
+		<Column name="DisplayTranslated"				NullOK="false" DataType="int" />
+	</Columns>
+</DataTable>

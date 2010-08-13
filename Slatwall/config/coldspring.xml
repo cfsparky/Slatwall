@@ -1,0 +1,93 @@
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans default-autowire="byName">
+	
+	<bean id="ajaxManager" class="[plugin]lib.ajax.ajaxManager" />
+	
+	<bean id="dbUpdate" class="[plugin]plugin.dbUpdate" />
+	
+	<bean id="cartManager" class="[plugin]lib.cart.cartManager" />
+	
+	<bean id="couponBean" class="[plugin]lib.coupon.couponBean" />
+	<bean id="couponDAO" class="[plugin]lib.coupon.couponDAO" />
+	<bean id="couponGateway" class="[plugin]lib.coupon.couponGateway" />
+	<bean id="couponInterator" class="[plugin]lib.coupon.couponInterator" />
+	<bean id="couponManager" class="[plugin]lib.coupon.couponManager">
+		<constructor-arg name="couponDAO"><ref bean="couponDAO" /></constructor-arg>
+		<constructor-arg name="couponGateway"><ref bean="couponGateway" /></constructor-arg>
+	</bean>
+	
+	<bean id="dspAccount" class="[plugin]lib.dsp.dspAccount" />
+	<bean id="dspBilling" class="[plugin]lib.dsp.dspBilling" />
+	<bean id="dspCart" class="[plugin]lib.dsp.dspCart" />
+	<bean id="dspProduct" class="[plugin]lib.dsp.dspProduct" />
+	<bean id="dspShipping" class="[plugin]lib.dsp.dspShipping" />
+	<bean id="dspManager" class="[plugin]lib.dsp.dspManager">
+		<constructor-arg name="dspAccount"><ref bean="dspAccount" /></constructor-arg>
+		<constructor-arg name="dspBilling"><ref bean="dspBilling" /></constructor-arg>
+		<constructor-arg name="dspCart"><ref bean="dspCart" /></constructor-arg>
+		<constructor-arg name="dspProduct"><ref bean="dspProduct" /></constructor-arg>
+		<constructor-arg name="dspShipping"><ref bean="dspShipping" /></constructor-arg>
+	</bean>
+	
+	<bean id="integrationCelerant" class="[plugin]lib.integration.integrationCelerant" />
+	<bean id="integrationQuickbooks" class="[plugin]lib.integration.integrationQuickbooks" />
+	<bean id="integrationSlatwall" class="[plugin]lib.integration.integrationSlatwall" />
+	<bean id="integrationManager" class="[plugin]lib.integration.integrationManager">
+		<constructor-arg name="integrationCelerant"><ref bean="integrationCelerant" /></constructor-arg>
+		<constructor-arg name="integrationQuickbooks"><ref bean="integrationQuickbooks" /></constructor-arg>
+		<constructor-arg name="integrationSlatwall"><ref bean="integrationSlatwall" /></constructor-arg>
+	</bean>
+	
+	<bean id="logManager" class="[plugin]lib.log.logManager" />
+	<bean id="messageManager" class="[plugin]lib.message.messageManager" />
+	
+	<bean id="orderBean" class="[plugin]lib.order.orderBean" />
+	<bean id="orderDAO" class="[plugin]lib.order.orderDAO" />
+	<bean id="orderGateway" class="[plugin]lib.order.orderGateway" />
+	<bean id="orderIterator" class="[plugin]lib.order.orderIterator" />
+	<bean id="orderManager" class="[plugin]lib.order.orderManager">
+		<constructor-arg name="orderDAO"><ref bean="orderDAO" /></constructor-arg>
+		<constructor-arg name="orderGateway"><ref bean="orderGateway" /></constructor-arg>
+	</bean>
+	
+	<bean id="productBean" class="[plugin]lib.product.productBean" />
+	<bean id="productDAO" class="[plugin]lib.product.productDAO" />
+	<bean id="productGateway" class="[plugin]lib.product.productGateway" />
+	<bean id="productIterator" class="[plugin]lib.product.productIterator" />
+	<bean id="productManager" class="[plugin]lib.product.productManager">
+		<constructor-arg name="productDAO"><ref bean="productDAO" /></constructor-arg>
+		<constructor-arg name="productGateway"><ref bean="productGateway" /></constructor-arg>
+	</bean>
+	
+	<bean id="slatSettings" class="[plugin]lib.slatSettings" />
+	
+	<bean id="shippingFedEx" class="[plugin]lib.shipping.shippingFedEx" />
+	<bean id="shippingUPS" class="[plugin]lib.shipping.shippingUPS" />
+	<bean id="shippingUSPS" class="[plugin]lib.shipping.shippingUSPS" />
+	<bean id="shippingManager" class="[plugin]lib.shipping.shippingManager">
+		<constructor-arg name="shippingFedEx"><ref bean="shippingFedEx" /></constructor-arg>
+		<constructor-arg name="shippingUPS"><ref bean="shippingFedEx" /></constructor-arg>
+		<constructor-arg name="shippingUSPS"><ref bean="shippingFedEx" /></constructor-arg>
+	</bean>
+	
+	<bean id="skuBean" class="[plugin]lib.sku.skuBean" />
+	<bean id="skuDAO" class="[plugin]lib.sku.skuDAO" />
+	<bean id="skuGateway" class="[plugin]lib.sku.skuGateway" />
+	<bean id="skuIterator" class="[plugin]lib.sku.skuIterator" />
+	<bean id="skuManager" class="[plugin]lib.sku.skuManager">
+		<constructor-arg name="skuDAO"><ref bean="skuDAO" /></constructor-arg>
+		<constructor-arg name="skuGateway"><ref bean="skuGateway" /></constructor-arg>
+	</bean>
+	
+	<bean id="vendorBean" class="[plugin]lib.vendor.vendorBean" />
+	<bean id="vendorDAO" class="[plugin]lib.vendor.vendorDAO" />
+	<bean id="vendorGateway" class="[plugin]lib.vendor.vendorGateway" />
+	<bean id="vendorIterator" class="[plugin]lib.vendor.vendorIterator" />
+	<bean id="vendorManager" class="[plugin]lib.vendor.vendorManager">
+		<constructor-arg name="vendorDAO"><ref bean="vendorDAO" /></constructor-arg>
+		<constructor-arg name="vendorGateway"><ref bean="vendorGateway" /></constructor-arg>
+	</bean>
+	
+	<bean id="utilityManager" class="[plugin]lib.utility.utilityManager" />
+</beans>
