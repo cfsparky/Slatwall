@@ -1,4 +1,4 @@
-<cfcomponent extends="mura.iterator.queryIterator" output="false">
+<cfcomponent extends="mura.iterator.queryIterator" name="skuIterator" output="false">
 	
 	<cffunction name="packageRecord" access="public" output="false" returntype="any">
 		<cfset var sku=createObject("component","skuBean").init() />

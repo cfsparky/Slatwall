@@ -1,4 +1,4 @@
-<cfcomponent output="false" name="priceDetailBean" hint="Container Object For Price Detail Information for Cart and Orders">
+<cfcomponent output="false" name="orderItemPriceDetailBean" hint="Container Object For Price Detail Information for Cart and Orders">
 	
 	<cfset variables.instance = structnew() />
 	<cfset variables.instance.AdjustmentDetail = "" />

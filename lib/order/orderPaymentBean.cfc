@@ -1,4 +1,7 @@
-<cfcomponent output="false" name="paymentBean" hint="This holds all of the details reguarding a Payment Method">
+<cfcomponent output="false" name="orderPaymentBean" hint="">
+	<cffunction name="init" access="public" returntype="any" output="false">
+		<cfreturn this />
+	</cffunction>
 	
 	<cfset variables.instance = structnew() />
 	<cfset variables.instance.Amount = 0 />

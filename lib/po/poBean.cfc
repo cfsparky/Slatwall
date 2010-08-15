@@ -1,4 +1,4 @@
-<cfcomponent output="false" name="" hint="">
+<cfcomponent output="false" name="poBean" hint="">
 	
 	<cfset variables.instance.PurchaseOrderID = 0 />
 	<cfset variables.instance.PurchaseOrderCode = "" />

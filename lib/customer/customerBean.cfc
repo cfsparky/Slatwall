@@ -1,4 +1,4 @@
-<cfcomponent output="false" name="productBean" hint="Container Object For Core Customer Information">
+<cfcomponent output="false" name="customerBean" hint="Container Object For Core Customer Information">
 
 	<cfset variables.instance = structnew() />
 	<cfset variables.instance.CustomerID="" />

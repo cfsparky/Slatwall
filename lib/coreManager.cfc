@@ -5,5 +5,4 @@
 	</cffunction>
 	
 	
-	
 </cfcomponent>
