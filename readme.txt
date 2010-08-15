@@ -1,0 +1,1 @@
+This directory is meant to be zipped up and used as a plugin for installation into a MURA CMS instance. 
